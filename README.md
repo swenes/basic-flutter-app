@@ -1,2 +1,2 @@
 # pokedex_app_FLUTTER
-#flutter #dart #dio #api #screenutil #cached_network_image #googlefonts
+#flutter #dart #dio #api #screenutil #cached_network_image #googlefonts #portrait #landscape
